@@ -1,0 +1,13 @@
+
+
+#pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract==0.3.10
+opencv-python==4.10.0.84
+pillow==10.4.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+nltk==3.9.1
+spacy==3.7.5
+scikit-learn==1.5.1
+jupyter
